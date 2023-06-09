@@ -14,7 +14,9 @@ http://localhost/php-update-version
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/social-login_google/main/Screenshots/Output.png)
+![](https://raw.githubusercontent.com/codehafeez/php-update-version/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/php-update-version/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/php-update-version/main/Screenshots/Output-03.png)
 
 
 ## 🔗 www.codehafeez.com
